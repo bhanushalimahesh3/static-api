@@ -1,0 +1,28 @@
+{
+  "status": 1,
+  "message": "Login success",
+  "data": {
+    "todos": [
+      {
+        "id": 1,
+        "title": "Task one",
+        "is_completed": true
+      },
+      {
+        "id": 2,
+        "title": "Task two",
+        "is_completed": true
+      },
+      {
+        "id": 3,
+        "title": "Task three",
+        "is_completed": false
+      },
+      {
+        "id": 4,
+        "title": "Task four",
+        "is_completed": false
+      }
+    ]
+  }
+}
