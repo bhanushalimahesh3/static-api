@@ -1,0 +1,66 @@
+// 20220708122409
+// https://raw.githubusercontent.com/bhanushalimahesh3/static-api/main/todo.json
+{
+    "status": 1,
+    "message": "Product list success",
+    "data": {
+        "products": [
+            {
+                "id": 1,
+                "title": "Product One",
+                "description": "Description One",
+                "mrp": "$50.00",
+                "is_fav": true
+            },
+            {
+                "id": 2,
+                "title": "Product Two",
+                "description": "Description Two",
+                "mrp": "$60.00",
+                "is_fav": false
+            },
+            {
+                "id": 3,
+                "title": "Product Three",
+                "description": "Description Three",
+                "mrp": "$70.00",
+                "is_fav": true
+            },
+            {
+                "id": 4,
+                "title": "Product Four",
+                "description": "Description Four",
+                "mrp": "$80.00",
+                "is_fav": false
+            },
+            {
+                "id": 5,
+                "title": "Product Five",
+                "description": "Description Five",
+                "mrp": "$90.00",
+                "is_fav": true
+            },
+            {
+                "id": 6,
+                "title": "Product Six",
+                "description": "Description Six",
+                "mrp": "$100.00",
+                "is_fav": false
+            },
+            {
+                "id": 7,
+                "title": "Product Seven",
+                "description": "Description Seven",
+                "mrp": "$50.00",
+                "is_fav": true
+            },
+            {
+                "id": 8,
+                "title": "Product Eight",
+                "description": "Description Eight",
+                "mrp": "$150.00",
+                "is_fav": true
+            }
+        ]
+    }
+}
