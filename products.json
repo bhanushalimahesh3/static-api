@@ -1,6 +1,6 @@
 {
     "status": 1,
-    "message": "Product list success",
+    "message": "Product list loaded success",
     "data": {
         "products": [
             {
